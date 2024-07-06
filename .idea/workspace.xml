@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d2670a9-fac6-48ae-8ef9-4358a529e692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/goit-algo-hw-04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4_hw2.py" afterDir="false" />
-    </list>
+    <list default="true" id="4d2670a9-fac6-48ae-8ef9-4358a529e692" name="Changes" comment="сommit1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Faoeltiarna/goit-algo-hw-04.git",
+    "accountId": "ff854636-f164-4a8e-844d-f35ddbb68cf2"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -139,6 +135,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720082012376</updated>
     </task>
+    <task id="LOCAL-00001" summary="сommit1">
+      <option name="closed" value="true" />
+      <created>1720270637234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720270637234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="сommit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="сommit1" />
   </component>
 </project>
